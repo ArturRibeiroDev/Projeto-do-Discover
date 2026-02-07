@@ -32,6 +32,9 @@ Projeto de uma página de links personalizada, estilo **Linktree**, com suporte 
 - 🖼️ Imagem de perfil dinâmica conforme o tema
 - 🔗 Links externos com hover animado
 - 📱 Layout responsivo para mobile
+- 🎞️ Animações suaves no toggle de tema
+- 🖥️ Background adaptado para desktop e mobile
+
 
 ## 📚 Aprendizados
 
@@ -39,6 +42,9 @@ Projeto de uma página de links personalizada, estilo **Linktree**, com suporte 
 - Manipulação de classes com JavaScript
 - Estruturação de layout responsivo
 - Organização de arquivos front-end
+- Uso de Media Queries
+- Criação de animações com CSS (@keyframes)
+
 
 ## 👨‍💻 Autor
 
