@@ -29,4 +29,20 @@ Projeto de uma página de links personalizada, estilo **Linktree**, com suporte 
 - 🔗 Links externos com hover animado
 - 📱 Layout responsivo para mobile
 
-## 📂 Estrutura do Projeto
+## 📚 Aprendizados
+- Uso de **CSS Variables** para temas
+- Manipulação de classes com JavaScript
+- Estruturação de layout responsivo
+- Organização de arquivos front-end
+
+## 👨‍💻 Autor
+Feito com ❤️ por **Artur Ribeiro**
+
+- GitHub: [github.com/artur_ribeiro](https://github.com/artur_ribeiro)
+- Instagram: [@artur.zyx](https://instagram.com/artur.zyx)
+- LinkedIn: [linkedin.com/in/artur_ribeiro](https://linkedin.com/in/artur_ribeiro)
+
+---
+
+✨ Projeto desenvolvido para fins educacionais e portfólio.
+
