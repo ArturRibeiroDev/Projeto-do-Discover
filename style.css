@@ -25,7 +25,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 body * {
@@ -59,7 +59,7 @@ body * {
 /* switch */
 #switch {
   position: relative;
-  width: 70px;
+  width: 64px;
 
   margin: 4px auto;
 }
@@ -172,6 +172,11 @@ footer {
   }
   .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
+}
+@media (max-height: 700px) {
+  #container {
+    margin-top: 24px;
   }
 }
 
