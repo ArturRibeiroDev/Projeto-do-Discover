@@ -1,5 +1,3 @@
-# <<<<<<< HEAD
-
 # 🌐 DevLinks – Página de Links Pessoal
 
 Projeto de uma página de links personalizada, estilo **Linktree**, com suporte a **modo claro e escuro**, design moderno e responsivo.
